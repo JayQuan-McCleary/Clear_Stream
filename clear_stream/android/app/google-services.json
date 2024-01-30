@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987596278870",
+    "project_id": "clear-stream-429bf",
+    "storage_bucket": "clear-stream-429bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987596278870:android:2dc2be8e61fd4f1e207ff7",
+        "android_client_info": {
+          "package_name": "com.example.clear_stream"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8DIjdyEn14mM2s_JIL9CUDHFCaFK6wK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
